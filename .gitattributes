@@ -1,0 +1,7 @@
+# 统一下换行，Windows 的 ps1 也按 LF 存（PowerShell 两种都能读）
+* text=auto eol=lf
+
+# 二进制
+*.png binary
+*.zip binary
+*.tgz binary

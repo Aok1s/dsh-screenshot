@@ -1,0 +1,17 @@
+# 依赖与构建产物
+node_modules/
+*.tgz
+
+# 截图插件运行时留下的东西（正常应该在 %TEMP%\dsh-screenshot 里）
+shots/
+*.png
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 日志
+*.log

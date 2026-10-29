@@ -1,0 +1,4 @@
+# 往 agent 组合里插一行：宿主半（截图/热键/清理路由）与客户端半（输入框旁的截图按钮）一起加载。
+- insert:
+    - id: dsh-screenshot
+      name: 'dsh-screenshot'
